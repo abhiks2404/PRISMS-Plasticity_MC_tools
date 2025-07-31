@@ -1,5 +1,5 @@
 # PRISMS-PF_MC_tools
-**Tools for integration between PRISMS-PF and Materials Commons**
+**Tools for integration between PRISMS-Plastcity and Materials Commons**
 
 The script files in this repository can be used to assist with automation of the following tasks:
 - Locally importing PRISMS-PF code files and simulation results into a Materials Commons project directory
